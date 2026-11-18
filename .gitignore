@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+database/*.db
+logs/*.log
+data/historical/*.csv
+data/exports/*.csv
